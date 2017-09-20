@@ -22,7 +22,5 @@ public class Main {
 			System.out.println("A palavra inserida É palíndromo");
 		else
 			System.out.println("A palavra inserida NÃO É palíndromo");
-		
 	}
-
 }
